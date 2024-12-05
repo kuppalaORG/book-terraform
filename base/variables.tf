@@ -1,7 +1,7 @@
 variable "region" {
   type = string
   description = "The Aws region"
-  default = "us-east-1"
+  default = "us-west-1"
 }
 
 variable "ami" {
